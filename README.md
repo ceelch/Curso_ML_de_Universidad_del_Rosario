@@ -1,4 +1,4 @@
-# Curso_ML_de_Universidad_del_Rosario
+# Curso_ML_en_R_de_Universidad_del_Rosario
 
 Este repository ha sido clonado del repositorio: 
 
